@@ -15,7 +15,7 @@ if unit>0:
     print(f"your unit is: {unit} \nyour electicity bill is: {bill}") 
 
 else:
-    print(" Unit")
+    print("invalid Unit")
 
 
 
